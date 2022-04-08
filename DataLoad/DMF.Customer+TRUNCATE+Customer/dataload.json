@@ -1,0 +1,34 @@
+{
+  "calculationConfig" : {
+    "feederFormulaName" : null,
+    "feederInputParams" : [ ],
+    "formulaName" : null,
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ],
+    "simulationSet" : null,
+    "skuField" : null,
+    "targetDate" : null,
+    "targetDateField" : null,
+    "targetFields" : null
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "dtoFilter" : {
+    "_constructor" : "AdvancedCriteria",
+    "criteria" : [ {
+      "fieldName" : "formulaResult",
+      "operator" : "equals",
+      "value" : "OK"
+    } ],
+    "operator" : "and"
+  },
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Customer",
+  "targetName" : "DMF.Customer",
+  "type" : "TRUNCATE",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

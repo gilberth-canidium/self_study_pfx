@@ -1,0 +1,25 @@
+{
+  "calculationConfig" : {
+    "feederFormulaName" : null,
+    "feederInputParams" : [ ],
+    "formulaName" : null,
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ],
+    "simulationSet" : null,
+    "skuField" : null,
+    "targetDate" : null,
+    "targetDateField" : null,
+    "targetFields" : null
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : false,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Currencies",
+  "targetName" : "DMDS.ccy",
+  "type" : "TRUNCATE",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

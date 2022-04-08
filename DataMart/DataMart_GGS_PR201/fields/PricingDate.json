@@ -1,0 +1,23 @@
+{
+  "aggregation" : false,
+  "auxiliary" : false,
+  "calculated" : false,
+  "deleted" : false,
+  "deployed" : true,
+  "dimension" : true,
+  "expression" : "PricingDate",
+  "key" : false,
+  "label" : "Pricing Date",
+  "labelTranslations" : { },
+  "numeric" : false,
+  "owningFC" : "TX Standard Data - High Tech",
+  "partitioningKey" : false,
+  "persisted" : true,
+  "queryable" : true,
+  "source" : "DMDS.Transac_Training_DS_GGS_PM201",
+  "sourceField" : "PricingDate",
+  "system" : false,
+  "time" : true,
+  "type" : "DATE",
+  "visibility" : 1
+}

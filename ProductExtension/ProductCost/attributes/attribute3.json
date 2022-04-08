@@ -1,0 +1,10 @@
+{
+  "description" : "Averge Cost",
+  "fieldType" : 1,
+  "label" : "AverageCost",
+  "labelTranslations" : {
+    "" : "Averge Cost"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

@@ -1,0 +1,25 @@
+{
+  "calculationConfig" : {
+    "feederFormulaName" : null,
+    "feederInputParams" : [ ],
+    "formulaName" : null,
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ],
+    "simulationSet" : null,
+    "skuField" : null,
+    "targetDate" : null,
+    "targetDateField" : null,
+    "targetFields" : null
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Data Mart for doing Labs",
+  "targetName" : "DM.DataMart_GGS_PR201",
+  "type" : "DM_REFRESH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

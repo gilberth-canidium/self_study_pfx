@@ -1,0 +1,10 @@
+{
+  "fieldType" : 2,
+  "formatType" : "TEXT",
+  "label" : "Business Unit",
+  "labelTranslations" : {
+    "" : "Business Unit"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

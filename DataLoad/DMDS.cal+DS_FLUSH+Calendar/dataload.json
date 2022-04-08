@@ -1,0 +1,26 @@
+{
+  "calculationConfig" : {
+    "feederFormulaName" : null,
+    "feederInputParams" : [ ],
+    "formulaName" : null,
+    "inputParams" : [ ],
+    "mappingParams" : [ ],
+    "outputElements" : [ ],
+    "simulationSet" : null,
+    "skuField" : null,
+    "targetDate" : null,
+    "targetDateField" : null,
+    "targetFields" : null
+  },
+  "continuous" : false,
+  "distributed" : false,
+  "incremental" : true,
+  "isDefault" : true,
+  "isPlasma" : false,
+  "label" : "Calendar",
+  "sourceName" : "DMF.cal",
+  "targetName" : "DMDS.cal",
+  "type" : "DS_FLUSH",
+  "valid" : true,
+  "withTargetSnapshot" : false
+}

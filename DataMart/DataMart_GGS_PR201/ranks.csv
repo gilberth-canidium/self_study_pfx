@@ -1,0 +1,16 @@
+UniqueId
+ProductId
+PricingDate
+isDeleted
+lastUpdateDate
+PricingDateWeek
+PricingDateMonth
+PricingDateQuarter
+PricingDateYear
+formulaResult
+formulaDetailedResults
+warnings
+alerts
+completeResultsAvailable
+CustomerId
+name

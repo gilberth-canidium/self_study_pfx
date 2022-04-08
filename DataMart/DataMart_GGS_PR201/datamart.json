@@ -1,0 +1,21 @@
+{
+  "auxiliary" : false,
+  "baseCcyCode" : "EUR",
+  "baseUomCode" : "EA",
+  "deployed" : true,
+  "fieldNames" : [ "UniqueId", "ProductId", "PricingDate", "isDeleted", "lastUpdateDate", "PricingDateWeek", "PricingDateMonth", "PricingDateQuarter", "PricingDateYear", "formulaResult", "formulaDetailedResults", "warnings", "alerts", "completeResultsAvailable", "CustomerId", "name" ],
+  "fields" : [ "CustomerId", "PricingDate", "PricingDateMonth", "PricingDateQuarter", "PricingDateWeek", "PricingDateYear", "ProductId", "UniqueId", "alerts", "completeResultsAvailable", "formulaDetailedResults", "formulaResult", "isDeleted", "lastUpdateDate", "name", "warnings" ],
+  "isPlasma" : false,
+  "keyFieldNames" : [ "UniqueId" ],
+  "label" : "Data Mart for doing Labs",
+  "loadableFields" : [ "UniqueId", "CustomerId", "ProductId", "PricingDate", "isDeleted", "lastUpdateDate", "formulaResult", "formulaDetailedResults", "warnings", "alerts" ],
+  "localFields" : [ "UniqueId", "CustomerId", "ProductId", "PricingDate", "isDeleted", "lastUpdateDate", "formulaResult", "formulaDetailedResults", "warnings", "alerts" ],
+  "locked" : false,
+  "normalization" : "MEDIUM",
+  "queryable" : true,
+  "source" : "DMDS.Transac_Training_DS_GGS_PM201",
+  "type" : "DATAMART",
+  "uniqueName" : "DataMart_GGS_PR201",
+  "valid" : true,
+  "view" : false
+}

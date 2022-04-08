@@ -1,0 +1,11 @@
+{
+  "cssProperties" : "",
+  "fieldType" : 2,
+  "formatType" : "TEXT",
+  "label" : "Product Category",
+  "labelTranslations" : {
+    "" : "Product Category"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}
