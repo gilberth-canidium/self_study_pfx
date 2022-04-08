@@ -1,0 +1,9 @@
+{
+  "envs" : {
+    "SELF_STD" : {
+      "plm-00218" : "https://training.pricefx.eu"
+    }
+  },
+  "keepLabelsIntact" : false,
+  "keepUserGroups" : false
+}
